@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Ivona 👋
 
 <!--
 **iwarra/iwarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🛠️ Tools I Use
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,pinia,nuxtjs,github,tailwind,bootstrap,vscode,postman,mongodb,netlify)](https://skillicons.dev)
+  
