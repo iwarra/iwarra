@@ -2,6 +2,8 @@
 
 I'm a frontend web developer with a background in communications and management. Playing with my blog was the initial spark that ignited my interest in programming. I enjoy building things and love to combine functionality with design. In my free time, I love learning new things, reading books, and petting dogs. 
 
+I am a volunteer for [Pink Programming](https://www.pinkprogramming.se/), a non-profit organization that encourages women to learn programming. 
+
 <!--
 **iwarra/iwarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
