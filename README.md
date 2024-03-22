@@ -1,5 +1,7 @@
 ### Hi there, I'm Ivona 👋
 
+I'm a frontend web developer with a background in communications and management. Playing with my blog was the initial spark that ignited my interest in programming. I enjoy building things and love to combine functionality with design. In my free time, I love learning new things, reading books, and petting dogs. 
+
 <!--
 **iwarra/iwarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
