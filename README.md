@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 🛠️ Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,vue,pinia,nuxtjs,github,tailwind,bootstrap,vscode,mongodb,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,nodejs,react,vue,nuxtjs,dotnet,github,pinia,tailwind,materialui,docker,vscode,visualstudio,supabase,mongodb,netlify&perline=10)](https://skillicons.dev)
   
